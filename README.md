@@ -1,0 +1,2 @@
+# DL_project
+Deep Learning subset of ML in artificial intelligence that has network capable of learning unsupervised from data.In DL project Firdt undustand Data .Apply EDA(Exploratory Data Analysis).1.Check null value.2.Check Outlier3.Convrt categorical data to number using LableEncoding4.Check skewness5.Apply Scaling.and Check Output it is balance or not.then apply RandomOverSampling.after done all this stuff.Create Arhitecture using Neural Network.
